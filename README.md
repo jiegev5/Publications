@@ -3,7 +3,6 @@
 List of my published technological articles.
 
 ## List
-### Documenting Django projects using Sphinx tool
 
 
 <br>
