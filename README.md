@@ -11,6 +11,9 @@ List of my published technological articles.
 
 [Documenting Django projects using Sphinx tool](https://medium.com/@goranaviani/sphinx-for-django-documentation-2454e924b3bc) - Article where I explain the building process of Django's framework documentation by using Sphinx tool. Readers follow a step by step explanation of different ways for documenting their projects  with real code examples.
 
+<br>
+<br>
+<br>
 
 <img src="https://cdn-images-1.medium.com/max/1400/1*MQQFG3SfXfX6VkkmC3quiQ.jpeg" align="left" border="2" width="20%"/>
 
