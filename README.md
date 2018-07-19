@@ -11,7 +11,7 @@
 
 <img src="https://cdn-images-1.medium.com/max/800/1*ifhHAX50eGNx801vofFtPQ.jpeg" align="left" border="2" width="20%"/>
 
-[Threat modeling](https://medium.com/@goranaviani/testing-in-python-c6b903eb247d) - Digital attacks are more and more frequent, and the first step in securing your apps is to understand the threats and how to counter them. In this article I’ve talked about Threat modeling, and how it’s used in application security. _Medium, jul 19, 2018._
+[Threat modeling](https://medium.com/@goranaviani/threat-modeling-317b375548da) - Digital attacks are more and more frequent, and the first step in securing your apps is to understand the threats and how to counter them. In this article I’ve talked about Threat modeling, and how it’s used in application security. _Medium, jul 19, 2018._
 
 
 <br>
