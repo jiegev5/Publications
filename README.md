@@ -30,8 +30,8 @@ First part of Testing in Python series. _Medium, Jun 25, 2018_
 <br>
 <br>
 
-[Goran Aviani Final paper](hhttps://drive.google.com/file/d/1soJI8C6pcm9K0l4A9W3z2KbWv9rNM5Uz/view?usp=sharing) - 
-This paper gives an overview of development of information systems that support tourist accommodation rental business.The application is made using Yii framework. The client-side of the application is 
+[Goran Aviani Final paper](https://drive.google.com/file/d/1soJI8C6pcm9K0l4A9W3z2KbWv9rNM5Uz/view?usp=sharing) - This paper gives an overview of development of information systems that support tourist accommodation rental
+ business.The application is made using Yii framework. The client-side of the application is 
 is built using HTML and CSS and server side is made using PHP and MySQL. 
 
 The objectives of the application (processing user requests) that are displayed
