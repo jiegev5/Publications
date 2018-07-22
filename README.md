@@ -30,9 +30,9 @@ First part of Testing in Python series. _Medium, Jun 25, 2018_
 <br>
 <br>
 
-<img src="https://lh3.googleusercontent.com/rTkg3QJtR_0Clq5KZHUOXYyc_mdwHyxx4jZcgnobguYb9teZlvBVxrdSQ59coFsi44vBYcA5j5SrvmcmnIIdl9hbXR2mNfCwdXjgqrX0WtlE5xHu77VYrMvgRIGY8OMLg5YzKq9IUZu856rwesghuiomn5sYeRC2TaJI2Gy161An6vwFRXe4Vy9h3KcXEPPur8p7GAou-3C0wZnFPXrx1D39ltBRzmRyOG58GtenpHM5jltp6vhDt73MRUaLuQbhU76gZuOREuyn3cuE2bUlba-RCZ0ZRlexzp7x2hysyRfRx3IURbHFBGtrqfJ3yx_IJRMl0Cdogz3QwUYdCAVAy0Ko2TXsVB42r0ixwJe_PoRTFe8dQwkxaKUEUHzpjBCVfGDIZJJ5TR0L_d9mYiQoIPSppxfXFpMwZ0mqvp39gFGtTF9kfBkKQZkLRYA7AQsquKNPys6RjWmT87uCx32TfdSgDSdAbQq3NbtbrIEkEB-a4EYD1SQIMYOjksWrKp0bFjYPANLZs5-OsW_bAV2gaXL138pfsxUEt_NfzElm5m9JsWJLexLW9-gh7fRYVz0J3GHXLrS4IUDF8n-GS5UUqIg2_jEN9V_cM54jhIY=w658-h928-no" align="left" border="2" width="25%"/>
+<img src="https://www.mediafire.com/convkey/6579/hkqp8s06dh6laaq6g.jpg" align="left" border="2" width="25%"/>
 
-[Goran Aviani Final paper](https://www.mediafire.com/convkey/6579/hkqp8s06dh6laaq6g.jpg) - This paper gives an overview of development
+[Goran Aviani Final paper](https://drive.google.com/file/d/1soJI8C6pcm9K0l4A9W3z2KbWv9rNM5Uz/view?usp=sharing) - This paper gives an overview of development
  of information systems that support tourist accommodation rental business.The application is made using Yii framework. The client-side of the application is 
 is built using HTML and CSS and server side is made using PHP and MySQL. 
 
