@@ -4,10 +4,16 @@
 
 ## List of my published technological articles
 
+<br>
+<br>
+
+<img src="https://cdn-images-1.medium.com/max/1067/1*32wN-ItVobWdxmWwyU8o8A.jpeg" align="left" border="2" width="20%"/>
+
+[Set Up Xdebug, PhpStorm in PHP5/7](https://medium.com/@goranaviani/set-up-xdebug-phpstorm-in-php5-7-6a8386304fc6) - Set Up Xdebug, PhpStorm in PHP5/7 is an article where I explain the process of setting up those technologies for debugging purposes. This article gives its readers step by step real code examples, images and explanations that will help in setting up debugging environments in a matter of minutes.  _Medium, aug 28, 2018._
 
 
 <br>
-
+<br>
 
 <img src="https://cdn-images-1.medium.com/max/800/1*ifhHAX50eGNx801vofFtPQ.jpeg" align="left" border="2" width="20%"/>
 
