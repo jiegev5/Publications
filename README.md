@@ -44,7 +44,7 @@ First part of Testing in Python series. _Medium, Jun 25, 2018_
 
 <img src="https://www.mediafire.com/convkey/6579/hkqp8s06dh6laaq6g.jpg" align="left" border="2" width="25%"/>
 
-[Goran Aviani Final paper](https://drive.google.com/file/d/1soJI8C6pcm9K0l4A9W3z2KbWv9rNM5Uz/view?usp=sharing) - This paper gives an overview of development
+[Web application for renting apartments - Final Paper - Goran Aviani](https://drive.google.com/file/d/1soJI8C6pcm9K0l4A9W3z2KbWv9rNM5Uz/view?usp=sharing) - This paper gives an overview of development
  of information systems that support tourist accommodation rental business.The application is made using Yii framework. The client-side of the application is 
 is built using HTML and CSS and server side is made using PHP and MySQL. 
 
