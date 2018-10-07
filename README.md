@@ -3,6 +3,12 @@
 
 
 ## List of my published technological articles
+<br>
+<br>
+
+<img src="https://cdn-images-1.medium.com/max/1067/0*sKaYtAoXV74DLcsB" align="left" border="2" width="20%"/>
+
+[HTTP and everything you need to know about it](https://medium.com/@goranaviani/http-and-everything-you-need-to-know-about-it-8273bc224491) - HTTP and everything you need to know about it is a nice overview of HTTP and technologies around it.  _Medium, oct 07, 2018._
 
 <br>
 <br>
