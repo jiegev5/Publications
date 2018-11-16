@@ -9,7 +9,7 @@
 
 <img src="https://cdn-images-1.medium.com/max/1067/1*32wN-ItVobWdxmWwyU8o8A.jpeg" align="left" border="2" width="20%"/>
 
-[Set Up Xdebug, PhpStorm in PHP5/7](https://medium.com/@goranaviani/set-up-xdebug-phpstorm-in-php5-7-6a8386304fc6) - Set Up Xdebug, PhpStorm in PHP5/7 is an article where I explain the process of setting up those technologies for debugging purposes. This article gives its readers step by step real code examples, images and explanations that will help in setting up debugging environments in a matter of minutes.  _Medium, aug 28, 2018._
+[How to set up a local debugging environment in PHP](https://medium.com/@goranaviani/set-up-xdebug-phpstorm-in-php5-7-6a8386304fc6) - How to set up a local debugging environment in PHP is an article where I explain the process of setting up those technologies for debugging purposes. This article gives its readers step by step real code examples, images and explanations that will help in setting up debugging environments in a matter of minutes.  _Medium, aug 28, 2018._ _Republished on freeCodeCamp nov 15, 2018._
 
 
 <br>
@@ -31,7 +31,7 @@ First part of Testing in Python series. _Medium, Jun 25, 2018_
 <br>
 <img src="https://cdn-images-1.medium.com/max/800/1*aBjEUaDShrMB9RFqbl_saQ.jpeg" align="left" border="2" width="20%"/>
 
-[Documenting Django projects using Sphinx tool](https://medium.com/@goranaviani/sphinx-for-django-documentation-2454e924b3bc) - Article where I explain the building process of Django's framework documentation by using Sphinx tool. Readers follow a step by step explanation of different ways for documenting their projects  with real code examples. _Medium, Jun 8, 2018_
+[Documenting Django projects using Sphinx tool](https://medium.com/@goranaviani/sphinx-for-django-documentation-2454e924b3bc) - Article where I explain the building process of Django's framework documentation by using Sphinx tool. Readers follow a step by step explanation of different ways for documenting their projects  with real code examples. _Medium, Jun 8, 2018_ _Republised on freeCodeCamp oct 24, 2018._
 
 <br>
 <br>
