@@ -7,7 +7,7 @@
 <br>
 <img src="https://cdn-images-1.medium.com/max/1000/0*2GkM1pvDmnI2ksUM.png" align="left" border="2" width="20%"/>
 
-[Understanding Git: basics, commands, tips & tricks](https://medium.com/@goranaviani/understanding-git-basics-commands-tips-tricks-da0c05db411f) - Understanding Git: basics, commands, tips & tricks is a full overview of all things you need to know to get going with Git! Article starts by explaining what is version-control system Git and what are repository management services like GitHub, GitLab and Bitbucket. By listing and explaing all commands needed that an average Git user could need, readers can dive into the world of Git. Article ends with Tips & Tricks section which explains some more used functionalities of Git.  _Medium, jan 09, 2019._
+[Understanding Git: basics, commands, tips & tricks](https://medium.com/@goranaviani/understanding-git-basics-commands-tips-tricks-da0c05db411f) - Understanding Git: basics, commands, tips & tricks is a full overview of all things you need to know to get started with Git! Article starts by explaining what is version-control system Git and what are repository management services like GitHub, GitLab and Bitbucket. By listing and explaining all commands that an average Git useruses, reader can dive into the world of Git. Article ends with Tips & Tricks section which explains some more used functionalities of Git.  _Medium, jan 09, 2019._
 
 <br>
 <br>
