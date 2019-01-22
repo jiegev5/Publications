@@ -38,7 +38,7 @@
 <img src="https://cdn-images-1.medium.com/max/1400/1*MQQFG3SfXfX6VkkmC3quiQ.jpeg" align="left" border="2" width="20%"/>
 
 [Testing in Python](https://medium.com/@goranaviani/testing-in-python-c6b903eb247d) - This article covers unit tests in Python. Idea of this article is for readers to get hands on experience and understanding about writing tests in Python.
-First part of Testing in Python series. _Medium, Jun 25, 2018_ _Republished on DevOpsLinks on jan 11, 2019._
+First part of Testing in Python series. _Medium, Jun 25, 2018_ _Republished on DevOpsLinks on jan 11, 2019._ _Republished on freeCodeCamp on jan 22, 2019._
 
 <br>
 <br>
