@@ -5,6 +5,21 @@
 ## List of my published technological articles
 <br>
 <br>
+<img src="https://cdn-images-1.medium.com/max/800/1*REWATbNLWv5uvpB0UKedEQ.jpeg" align="left" border="2" width="20%"/>
+
+[How to create, read, update and search through Excel files using Python](https://medium.com/@goranaviani/how-to-create-read-update-and-search-through-excel-files-using-python-c70680d811d4) - This article is meant for readers with an interest to learn how to work with Excel files using Python.
+
+In this text we will focus on several real life scenarios ex: how to find and modify specific data inside of Excel files.
+The first part will explain how to work with CSV files by creating, reading and updating those files. 
+The second part will show how to work with xlsx files by doing all the steps from the first part + filtering by sheets, searching for rows/columns and updating cells.
+
+
+The article presents the finished code with two free-to-download GitHub repositories, one for each part of the text. There is also a link to the web app which was built using the code from the second part: (https://tools.incodaq.com) _Medium, apr 08, 2019._ 
+
+<br>
+<br>
+<br>
+
 <img src="https://cdn-images-1.medium.com/max/1000/0*2GkM1pvDmnI2ksUM.png" align="left" border="2" width="20%"/>
 
 [Understanding Git: basics, commands, tips & tricks](https://medium.com/@goranaviani/understanding-git-basics-commands-tips-tricks-da0c05db411f) - Understanding Git: basics, commands, tips & tricks is a full overview of all things you need to know to get started with Git! Article starts by explaining what is version-control system Git and what are repository management services like GitHub, GitLab and Bitbucket. By listing and explaining all commands that an average Git useruses, reader can dive into the world of Git. Article ends with Tips & Tricks section which explains some more used functionalities of Git.  _Medium, jan 09, 2019._ _Republished on DevOpsLinks on jan 11, 2019._
