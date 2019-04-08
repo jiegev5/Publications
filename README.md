@@ -14,7 +14,8 @@ The first part will explain how to work with CSV files by creating, reading and 
 The second part will show how to work with xlsx files by doing all the steps from the first part + filtering by sheets, searching for rows/columns and updating cells.
 
 
-The article presents the finished code with two free-to-download GitHub repositories, one for each part of the text. There is also a link to the web app which was built using the code from the second part: (https://tools.incodaq.com) 
+The article presents the finished code with two free-to-download GitHub repositories, one for each part of the text. There is also a link to the web app which was built using the code from the second part: https://tools.incodaq.com
+
 _Medium, apr 08, 2019._ 
 
 <br>
