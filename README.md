@@ -15,7 +15,7 @@ The second part will show how to work with xlsx files by doing all the steps fro
 
 
 The article presents the finished code with two free-to-download GitHub repositories, one for each part of the text. There is also a link to the web app which was built using the code from the second part: https://tools.incodaq.com
-<br>_Medium, apr 08, 2019._ 
+<br>_Medium, apr 08, 2019._ _Republished on freeCodeCamp on apr 17, 2019._
 
 <br>
 <br>
