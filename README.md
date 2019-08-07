@@ -5,6 +5,20 @@
 ## List of my published technological articles
 <br>
 <br>
+<img src="https://miro.medium.com/max/700/1*aMYnl2Ctt9Y-RZ5bodNF2g.jpeg" align="left" border="2" width="20%"/>
+
+[Virtualenv with Virtualenvwrapper on Ubuntu 18.04](https://itnext.io/virtualenv-with-virtualenvwrapper-on-ubuntu-18-04-goran-aviani-d7b712d906d5) - 
+How to set up Virtualenv with Virtualenvwrapper on Ubuntu 18.04 is an up to date tutorial that will show our readers how to quicky set up Virtual Environments while avoiding common issues most users tend to encounter.
+
+_ITNEXT, jul 30, 2019._ 
+
+<br>
+<br>
+<br>
+
+
+<br>
+<br>
 <img src="https://cdn-images-1.medium.com/max/800/1*REWATbNLWv5uvpB0UKedEQ.jpeg" align="left" border="2" width="20%"/>
 
 [How to create, read, update and search through Excel files using Python](https://medium.com/@goranaviani/how-to-create-read-update-and-search-through-excel-files-using-python-c70680d811d4) - This article is meant for readers with an interest to learn how to work with Excel files using Python.
